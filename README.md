@@ -1,2 +1,2 @@
-# German--ExpenseandSavingsCalculator
-German Expense and Savings calculator/ Comparator &amp; Comparison Table
+# Germany--ExpenseandSavingsCalculator
+Germany Expense and Savings calculator/ Comparator &amp; Comparison Table
